@@ -16,7 +16,7 @@ stringToNum = {
 
 
 
-with open("day1/input.txt") as f:
+with open("day1/input_copy.txt") as f:
     total = 0
     for line in f:
         numbers = re.findall(regex, line.lower())
