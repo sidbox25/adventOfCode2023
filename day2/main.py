@@ -1,4 +1,3 @@
-
 #12 red, 13 green, 14 blue
 
 maxRed = 12
